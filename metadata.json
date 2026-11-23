@@ -1,0 +1,8 @@
+{
+  "name": "LA DIETA – Salchipapería POS",
+  "description": "Sistema POS, Cocina KDS, Caja, Inventario Automático por Recetas y Reportes para La Dieta – Salchipapería (Av. Centenario N.° 401, Sicuani, Cusco).",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
